@@ -1,2 +1,2 @@
 # Hello-World
-my first repository
+小白的第一个试验品
